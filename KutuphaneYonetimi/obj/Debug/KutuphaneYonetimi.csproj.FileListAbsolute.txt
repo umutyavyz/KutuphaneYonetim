@@ -24,3 +24,16 @@ C:\Users\umuty\OneDrive\Masaüstü\Eylül\KutuphaneYonetimi\KutuphaneYonetimi\ob
 C:\Users\umuty\OneDrive\Masaüstü\Eylül\KutuphaneYonetimi\KutuphaneYonetimi\obj\Debug\KutuphaneYonetimi.csproj.CoreCompileInputs.cache
 C:\Users\umuty\OneDrive\Masaüstü\Eylül\KutuphaneYonetimi\KutuphaneYonetimi\obj\Debug\KutuphaneYonetimi.exe
 C:\Users\umuty\OneDrive\Masaüstü\Eylül\KutuphaneYonetimi\KutuphaneYonetimi\obj\Debug\KutuphaneYonetimi.pdb
+C:\Users\umuty\OneDrive\Belgeler\GitHub\KutuphaneYonetim\KutuphaneYonetimi\bin\Debug\KutuphaneYonetimi.exe.config
+C:\Users\umuty\OneDrive\Belgeler\GitHub\KutuphaneYonetim\KutuphaneYonetimi\bin\Debug\KutuphaneYonetimi.exe
+C:\Users\umuty\OneDrive\Belgeler\GitHub\KutuphaneYonetim\KutuphaneYonetimi\bin\Debug\KutuphaneYonetimi.pdb
+C:\Users\umuty\OneDrive\Belgeler\GitHub\KutuphaneYonetim\KutuphaneYonetimi\obj\Debug\KutuphaneYonetimi.csproj.AssemblyReference.cache
+C:\Users\umuty\OneDrive\Belgeler\GitHub\KutuphaneYonetim\KutuphaneYonetimi\obj\Debug\KutuphaneYonetimi.Form1.resources
+C:\Users\umuty\OneDrive\Belgeler\GitHub\KutuphaneYonetim\KutuphaneYonetimi\obj\Debug\KutuphaneYonetimi.KitapForm.resources
+C:\Users\umuty\OneDrive\Belgeler\GitHub\KutuphaneYonetim\KutuphaneYonetimi\obj\Debug\KutuphaneYonetimi.OduncForm.resources
+C:\Users\umuty\OneDrive\Belgeler\GitHub\KutuphaneYonetim\KutuphaneYonetimi\obj\Debug\KutuphaneYonetimi.Properties.Resources.resources
+C:\Users\umuty\OneDrive\Belgeler\GitHub\KutuphaneYonetim\KutuphaneYonetimi\obj\Debug\KutuphaneYonetimi.UyeForm.resources
+C:\Users\umuty\OneDrive\Belgeler\GitHub\KutuphaneYonetim\KutuphaneYonetimi\obj\Debug\KutuphaneYonetimi.csproj.GenerateResource.cache
+C:\Users\umuty\OneDrive\Belgeler\GitHub\KutuphaneYonetim\KutuphaneYonetimi\obj\Debug\KutuphaneYonetimi.csproj.CoreCompileInputs.cache
+C:\Users\umuty\OneDrive\Belgeler\GitHub\KutuphaneYonetim\KutuphaneYonetimi\obj\Debug\KutuphaneYonetimi.exe
+C:\Users\umuty\OneDrive\Belgeler\GitHub\KutuphaneYonetim\KutuphaneYonetimi\obj\Debug\KutuphaneYonetimi.pdb
